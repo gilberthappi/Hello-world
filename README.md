@@ -1,3 +1,4 @@
+
 <a name="readme-top"></a>
 
 <!--
@@ -33,7 +34,7 @@ For more information on the importance of a professional README for your reposit
   <img src="download.jpeg" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello-world</b></h3>
 
 </div>
 
@@ -63,18 +64,19 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 HELLO_MICROVERSE_PROJECT <a name="about-project"></a>
+# 📖 Hello-world <a name="about-project"></a>
 
 > This project is about 
 making Headings and stylings
 
-**[HELLO_MICROVERSE_PROJECT]** is a project of html headings and css stylings
+**Hello-world** is a project of html headings and css stylings
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> HTML5: Markup language for creating the structure and content of web pages.
+CSS3: Stylesheet language for describing the presentation and layout of web pages.
 
 <details>
   <summary>Client</summary>
@@ -90,18 +92,8 @@ making Headings and stylings
 
 > This project is about 
 making Headings and stylings
-- **[HTML and CSS]**
+- **HTML and CSS**
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](live demo coming soon)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,9 +101,8 @@ making Headings and stylings
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
+>Familiarize yourself with the project structure: Take some time to understand how the project is organized
+>Examine the HTML structure: Open the main HTML file in a text editor or an integrated development environment (IDE). 
 
 ### Prerequisites
 
@@ -122,14 +113,11 @@ In order to run this project you need:
 >Internet connection
 >A code editor like Visual Studio Code
 >Installation of Live Server plugging in Visual Studio Code
-
-<!--
 Example command:
 
 ```sh
  gem install rails
 ```
- -->
 
 ### Setup
 
@@ -138,14 +126,12 @@ Clone this repository to your desired folder: BY
 >open vs code
 >git 
 
-<!--
 Example commands:Setup
 
 ```sh
   cd my-folder
   git clone git@github.com:myaccount/my-project.git
 ```
---->
 
 ### Install
 
@@ -157,14 +143,12 @@ Install this project with:
 >A code editor like Visual Studio Code
 >Installation of Stylelint
 
-<!--
 Example command:
 
 ```sh
   cd my-project
   gem install
 ```
---->
 
 ### Usage
 
@@ -173,38 +157,35 @@ To run the project, execute the following command:
 >right click 
 >click on run on live server or
 >drag and drop to browser tap
-<!--
 Example command:
 
 ```sh
   rails server
 ```
---->
 
 ### Run tests
 
 To run tests, run the following command:
 >npx stylelint "**/*.{css,scss}"
-<!--
+
 Example command:
 
 ```sh
   bin/rails test test/models/article_test.rb
 ```
---->
+
 
 ### Deployment
 
 You can deploy this project using:
->use github deploy
+>github deploy
 
-<!--
 Example:
 
 ```sh
 
 ```
- -->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -212,9 +193,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
-👤 **Author1**
+👤 **Happi**
 - GitHub: [@githubhandle](https://github.com/gilberthappi)
 - Twitter: [@twitterhandle](https://twitter.com/DushimimanaGil3)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/dushimimana-gilbert-happi-997b2a262/)
@@ -226,12 +205,10 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 >Contact form
 >Footer description
 
-- [ ] **[headings]** here we will ceate headings
+- [ ] **headings** here we will ceate headings
 
 
 
@@ -251,17 +228,13 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...>'https://github.com/gilberthappi'
+If you like this project...leave a star⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Ismael
 
@@ -271,12 +244,10 @@ I would like to thank Ismael
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[HTML and CSS is good?]**
+- **HTML and CSS is good?**
 
 YEs
-- **[Heading and Styling is needed?]**
+- **Heading and Styling is needed?**
 
 YEs
 
@@ -288,6 +259,6 @@ YEs
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://choosealicense.com/licenses/mit/)  licensed.
+This project is [MIT](./LICENSE)  licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
