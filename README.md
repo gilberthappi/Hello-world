@@ -1,4 +1,4 @@
-## License
+
 <a name="readme-top"></a>
 
 <!--
@@ -34,7 +34,7 @@ For more information on the importance of a professional README for your reposit
   <img src="download.jpeg" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello-world</b></h3>
 
 </div>
 
@@ -64,12 +64,12 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 HELLO_MICROVERSE_PROJECT <a name="about-project"></a>
+# 📖 Hello-world <a name="about-project"></a>
 
 > This project is about 
 making Headings and stylings
 
-**HELLO_MICROVERSE_PROJECT** is a project of html headings and css stylings
+**Hello-world** is a project of html headings and css stylings
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -113,14 +113,11 @@ In order to run this project you need:
 >Internet connection
 >A code editor like Visual Studio Code
 >Installation of Live Server plugging in Visual Studio Code
-
-<!--
 Example command:
 
 ```sh
  gem install rails
 ```
- -->
 
 ### Setup
 
@@ -129,14 +126,12 @@ Clone this repository to your desired folder: BY
 >open vs code
 >git 
 
-<!--
 Example commands:Setup
 
 ```sh
   cd my-folder
   git clone git@github.com:myaccount/my-project.git
 ```
---->
 
 ### Install
 
@@ -148,14 +143,12 @@ Install this project with:
 >A code editor like Visual Studio Code
 >Installation of Stylelint
 
-<!--
 Example command:
 
 ```sh
   cd my-project
   gem install
 ```
---->
 
 ### Usage
 
@@ -164,38 +157,35 @@ To run the project, execute the following command:
 >right click 
 >click on run on live server or
 >drag and drop to browser tap
-<!--
 Example command:
 
 ```sh
   rails server
 ```
---->
 
 ### Run tests
 
 To run tests, run the following command:
 >npx stylelint "**/*.{css,scss}"
-<!--
+
 Example command:
 
 ```sh
   bin/rails test test/models/article_test.rb
 ```
---->
+
 
 ### Deployment
 
 You can deploy this project using:
 >github deploy
 
-<!--
 Example:
 
 ```sh
 
 ```
- -->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -203,7 +193,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Happi**
 - GitHub: [@githubhandle](https://github.com/gilberthappi)
 - Twitter: [@twitterhandle](https://twitter.com/DushimimanaGil3)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/dushimimana-gilbert-happi-997b2a262/)
@@ -238,7 +228,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project...>'https://github.com/gilberthappi'
+If you like this project...leave a star⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -269,6 +259,6 @@ YEs
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://choosealicense.com/licenses/mit/)  licensed.
+This project is [MIT](./LISENCE)  licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
